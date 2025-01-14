@@ -29,6 +29,7 @@ If your credentials are part of this breach, they may be exposed to hackers and 
 
 - **Change your password immediately** 🔄.
 - **Enable two-factor authentication (2FA)** for additional security on your accounts. 🔒
+- **Use an authenticator app** for generating secure codes when logging into sensitive accounts, enhancing your security. 📱
 
 ## 🛠️ How It Works
 
@@ -59,17 +60,17 @@ To learn more or to get API access, visit the official [ProxyNova](https://www.p
 - **HTTPS encryption**: All searches are securely transmitted over HTTPS to protect your privacy. 🔐
 
 
-## 🖼️ Screenshots (SS)
+## 🖼️ Screenshots :
 
 Here are some screenshots of the **CombSurge** tool in action:
 
 ### 🌞 Light Mode
 
-![Light Mode Screenshot](path_to_light_mode_screenshot.png)
+![Light Mode Screenshot](media/light.png)
 
 ### 🌙 Dark Mode
 
-![Dark Mode Screenshot](path_to_dark_mode_screenshot.png)
+![Dark Mode Screenshot](media/dark.png)
 
 These screenshots showcase the clean and intuitive interface of CombSurge, both in light and dark modes. 📸
 
